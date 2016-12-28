@@ -4,7 +4,7 @@
 
 ## 具体操作
 
-``` bash
+``` javascript
 
 # clone之后先安装项目依赖的node包
 
