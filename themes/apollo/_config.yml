@@ -1,10 +1,7 @@
 menu:
     Blog: /
     Archive: /archives/
-    Github: https://github.com/ERVeepp/erveepp.github.io
-    Vue: https://vuefe.leanapp.cn/
-    掘金: http://gold.xitu.io/
-    SF: https://segmentfault.com/
+    Github: https://github.com/ERVeepp/ERVeeBlog
 
 
 favicon: /favicon.png
