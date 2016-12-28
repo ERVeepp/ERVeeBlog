@@ -1,0 +1,23 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Github: https://github.com/ERVeepp/erveepp.github.io
+    Vue: https://vuefe.leanapp.cn/
+    掘金: http://gold.xitu.io/
+    SF: https://segmentfault.com/
+
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2016
